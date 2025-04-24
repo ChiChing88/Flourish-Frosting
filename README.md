@@ -1,2 +1,2 @@
-# Flourish-Frosting
-Assignment (Web Development)
+# JavaJam
+Web Development(exercise)
